@@ -6,7 +6,6 @@
 <br>
 
 <div align="center">
- ## 🤓 I have knowledge in...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" height="40px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.fontana.com.ar/wp-content/uploads/2018/10/spring-boot-logo.png" height="36px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" height="38px">
