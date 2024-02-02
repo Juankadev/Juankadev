@@ -12,10 +12,16 @@
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="38px">
+&nbsp;&nbsp;
 <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" height="40px">
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" height="38px">
+&nbsp;&nbsp;
 <img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" height="38px">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" height="38px">
 
