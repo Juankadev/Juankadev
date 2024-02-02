@@ -1,5 +1,5 @@
 ### Hey! I'll tell you about me 👋
-👩🏻‍💻 I am a programmer technician (UTN) and a computer systems technician (UTN). Among my projects you will find systems: commercial management, bank simulation, video games, and more...
+👩🏻‍💻 I am a programmer technician (UTN) and a computer systems technician (UTN). Among my projects you will find commercial management systems, bank simulation, video games, and more...
 📫 How to reach me: <a href="https://www.linkedin.com/in/juan-cruz-rey/">LinkedIn</a>
 <br>
 
