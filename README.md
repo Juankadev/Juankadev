@@ -1,7 +1,5 @@
 ### Hey! I'll tell you about me 👋
-
-👩🏻‍🎓 I've studied Programming at Universidad Tecnologica Nacional (UTN).
-👩🏻‍💻 I worked for a while in game development.
+👩🏻‍💻 I am a programmer technician (UTN) and a computer systems technician (UTN). Among my projects you will find systems: commercial management, bank simulation, video games, and more...
 📫 How to reach me: <a href="https://www.linkedin.com/in/juan-cruz-rey/">LinkedIn</a>
 <br>
 
