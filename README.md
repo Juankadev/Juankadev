@@ -17,7 +17,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" height="50px">
+<img src="https://logowik.com/content/uploads/images/mysql.jpg" height="50px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" height="50px">
 
