@@ -1,32 +1,21 @@
-### Hey! I'll tell you about me 👋
-👩🏻‍💻 I am a programmer technician (UTN) and a computer systems technician (UTN). Among my projects you will find commercial management systems, bank simulation, video games, and more...
-📫 How to reach me: <a href="https://www.linkedin.com/in/juan-cruz-rey/">LinkedIn</a>
-<br>
+<h3 align="center">👩🏻‍💻 Soy Técnico en Programación y Técnico en Sistemas Informáticos. Entre mis proyectos encontrarás sistemas de gestión comercial, simulación bancaria, videojuegos, y más...</h3>
 
-<div align="">
+- 🔭 Actualmente estoy trabajando en **Aplicaciones Webs en .NET**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="60px">
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" height="60px">
-&nbsp;&nbsp;
-<img src="https://miro.medium.com/v2/resize:fit:800/0*dNBoO2TwIBIIFI9w.png" height="60px">
-&nbsp;&nbsp;
-<img src="https://robertonovelo.com/rnawp/wp-content/uploads/2016/02/asp_net.png" height="60px">
-&nbsp;&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ULX579OgNbp0pkMIcB_GeMfRSbf9aMo3w5Ye19B20YLJTtK8MJuuIwTYPg9K6R5cmEw&usqp=CAU" height="60px">
+- 👨‍💻 Todos mis principales proyectos se encuentran en [https://juankadev.github.io/portfolio](https://juankadev.github.io/portfolio)
 
-&nbsp;
+- 📫 Contactame **https://www.linkedin.com/in/juan-cruz-rey/**
 
-<img src="https://logowik.com/content/uploads/images/mysql.jpg" height="60px">
-&nbsp;&nbsp;
-<img src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" height="60px">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juan-cruz-rey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-cruz-rey" height="30" width="40" /></a>
+</p>
 
-&nbsp;
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<img src="https://i.redd.it/tu3gt6ysfxq71.png" height="60px">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juankadev&show_icons=true&locale=en&layout=compact" alt="juankadev" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juankadev&show_icons=true&theme=dark&locale=en" alt="juankadev" /></p>
 
-<br>
-
-<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juankadev&" alt="juankadev" /></p>
