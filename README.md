@@ -1,4 +1,4 @@
-<h3 align="">Hola! 👩🏻‍💻 Soy Técnico en Programación y Técnico en Sistemas Informáticos. Entre mis proyectos encontrarás sistemas de gestión comercial, simulación bancaria, videojuegos, y más...</h3>
+<h3 align="">Hola! 👩🏻‍💻 soy Técnico en Programación y Técnico en Sistemas Informáticos. Entre mis proyectos encontrarás sistemas de gestión comercial, simulación bancaria, videojuegos, y más...</h3>
 
 - 🔭 Actualmente estoy trabajando en **Aplicaciones Webs en .NET**
 
