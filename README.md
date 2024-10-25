@@ -1,7 +1,7 @@
 <h3 align="">Hola! 👩🏻‍💻 soy técnico en Programación y técnico en Sistemas Informáticos.</h3>
 
-- 🔭  Entre mis proyectos encontrarás sistemas de: gestión comercial, simulación bancaria, videojuegos, y más. Actualmente estoy trabajando en **Aplicaciones Webs en .NET**
-
+- 🔭  Entre mis proyectos encontrarás sistemas de: gestión comercial, simulación bancaria, videojuegos, y más.
+- 
 - 👨‍💻 Todos mis principales proyectos se encuentran en [https://juankadev.github.io/portfolio](https://juankadev.github.io/portfolio)
 
 - 📫 Contactame **https://www.linkedin.com/in/juan-cruz-rey/**
